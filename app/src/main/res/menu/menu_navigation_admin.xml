@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_category"
+        android:title="Danh mục"
+        android:icon="@drawable/category"/>
+    <item
+        android:id="@+id/menu_item"
+        android:title="Sản phẩm"
+        android:icon="@drawable/item"/>
+    <item
+        android:id="@+id/menu_user"
+        android:title="Người dùng"
+        android:icon="@drawable/ic_user"/>
+    <item
+        android:id="@+id/menu_setting"
+        android:title="Tùy chọn"
+        android:icon="@drawable/settings"/>
+</menu>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.Material3.DayNight">
+        <!-- Các màu mặc định -->
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorOnPrimary">@color/blue</item>
+        <item name="colorSecondary">@color/green</item>
+        <item name="colorOnSecondary">@color/yellow</item>
+    </style>
+
+</resources>
